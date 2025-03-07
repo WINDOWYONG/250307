@@ -4,4 +4,6 @@ public class A {
     String str = "전창용짱이다친구많음이거는 진짜임 ㄹㅇ."
     int age = 51;
     double b = 77.7;
+    double c = 77.7;
+    double f = 77.7;
 }
