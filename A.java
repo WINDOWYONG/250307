@@ -3,4 +3,5 @@ public class A {
     String str = "나는 진짜 바보입니다... 죄송합니다"
     String str = "전창용짱이다."
     int age = 51;
+    double b = 77.7;
 }
